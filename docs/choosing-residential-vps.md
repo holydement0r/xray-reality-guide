@@ -1,10 +1,14 @@
+---
+title: 美国家宽 / 住宅 IP VPS 怎么选
+---
+
 # 美国家宽 / 住宅 IP VPS 怎么选
 
 买家宽节点前，先分清三件互相独立的事，很多人混在一起才踩坑。
 
 ## 1. IP 归属：住宅 vs 机房
 
-风控看 ASN 登记在谁名下。家庭运营商（AT&T / Comcast）= 住宅；云厂商 / 骨干网 = 机房。养号要住宅。详见 [家宽 IP vs 机房 IP](home-isp-vs-datacenter.md)。
+风控看 ASN 登记在谁名下。家庭运营商（AT&T / Comcast）= 住宅；云厂商 / 骨干网 = 机房。养号要住宅。详见 [家宽 IP vs 机房 IP](home-isp-vs-datacenter.html)。
 
 ## 2. 回国线路：9929 / 4837 / CN2 GIA
 

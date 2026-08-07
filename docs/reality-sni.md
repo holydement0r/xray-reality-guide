@@ -1,3 +1,7 @@
+---
+title: Reality SNI 怎么选 + Apple 域名实测
+---
+
 # Reality SNI 怎么选
 
 Reality 的 `dest` / `serverNames` 要借一个真实的高质量 TLS 站点。选错了握手就失败，或者特征太明显被墙盯上。合格的目标要同时满足：

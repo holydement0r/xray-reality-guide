@@ -1,3 +1,8 @@
+---
+title: Xray Reality / 3x-ui 配置与工具
+description: 家宽 IP、Reality、分流与纯净度的实战笔记与可复制配置
+---
+
 # Xray Reality / 3x-ui 搭建配置与工具
 
 家宽 IP、Xray Reality、3x-ui 面板、分流规则与 Scamalytics 纯净度的实战笔记与可直接用的配置。
@@ -14,11 +19,11 @@
 
 ## 指南（本仓库精简版，完整版在站上）
 
-- [家宽 IP vs 机房 IP：为什么节点总被识别](docs/home-isp-vs-datacenter.md)
-- [Scamalytics 分数怎么看：多少分算能用](docs/scamalytics-score.md)
-- [美国家宽 / 住宅 IP VPS 怎么选](docs/choosing-residential-vps.md)
-- [Reality SNI 怎么选 + Apple 域名实测淘汰表](docs/reality-sni.md)
-- [从 0 到能连：3x-ui + Reality 最短路径](docs/quickstart.md)
+- [家宽 IP vs 机房 IP：为什么节点总被识别](docs/home-isp-vs-datacenter.html)
+- [Scamalytics 分数怎么看：多少分算能用](docs/scamalytics-score.html)
+- [美国家宽 / 住宅 IP VPS 怎么选](docs/choosing-residential-vps.html)
+- [Reality SNI 怎么选 + Apple 域名实测淘汰表](docs/reality-sni.html)
+- [从 0 到能连：3x-ui + Reality 最短路径](docs/quickstart.html)
 
 ## 完整教程（dementor.cn）
 

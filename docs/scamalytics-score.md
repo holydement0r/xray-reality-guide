@@ -1,3 +1,7 @@
+---
+title: Scamalytics 分数怎么看：多少分算能用
+---
+
 # Scamalytics 分数怎么看：多少分算能用
 
 [Scamalytics](https://scamalytics.com/) 是最常被引用的 IP 欺诈风险评分，0–100，越低越好。但它经常被误读，说清楚几件事。
