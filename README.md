@@ -12,13 +12,22 @@
 | [分流规则生成器](https://dementor.cn/tools/routing-builder/) | 勾服务生成 Xray routing 规则，自动按优先级排序 |
 | [IP 检测](https://dementor.cn/tools/ip-check/) | 查 ASN / 运营商 / 归属，机房 vs 住宅初判，启发式风险分，WebRTC 泄露自查 |
 
-## 教程
+## 指南（本仓库精简版，完整版在站上）
+
+- [家宽 IP vs 机房 IP：为什么节点总被识别](docs/home-isp-vs-datacenter.md)
+- [Scamalytics 分数怎么看：多少分算能用](docs/scamalytics-score.md)
+- [美国家宽 / 住宅 IP VPS 怎么选](docs/choosing-residential-vps.md)
+- [Reality SNI 怎么选 + Apple 域名实测淘汰表](docs/reality-sni.md)
+- [从 0 到能连：3x-ui + Reality 最短路径](docs/quickstart.md)
+
+## 完整教程（dementor.cn）
 
 - [3x-ui 安装与面板加固](https://dementor.cn/3x-ui-install/)
 - [Reality 握手失败排查（context deadline exceeded / 测速 -1）](https://dementor.cn/reality-handshake-failed/)
 - [Scamalytics 分数怎么看、多少分能用](https://dementor.cn/scamalytics-score/)
 - [家宽 IP vs 机房 IP 到底差在哪](https://dementor.cn/home-isp-vs-datacenter/)
 - [美国家宽 VPS 怎么选：主流商家横评](https://dementor.cn/home-isp-vps-review/)
+- [家宽/住宅 IP 商家目录（逐家线路/套餐/价格）](https://dementor.cn/vendors/)
 
 ## 仓库内容
 
