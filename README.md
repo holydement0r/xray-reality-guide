@@ -16,6 +16,11 @@ description: 家宽 IP、Reality、分流与纯净度的实战笔记与可复制
 | [Reality 配置生成器](https://dementor.cn/tools/reality-config/) | 生成 UUID / x25519 密钥对 / shortId，直接产出 3x-ui JSON 与 `vless://` 链接 |
 | [分流规则生成器](https://dementor.cn/tools/routing-builder/) | 勾服务生成 Xray routing 规则，自动按优先级排序 |
 | [IP 检测](https://dementor.cn/tools/ip-check/) | 查 ASN / 运营商 / 归属，机房 vs 住宅初判，启发式风险分，WebRTC 泄露自查 |
+| [vless:// 链接解析器](https://dementor.cn/tools/vless-parser/) | 拆出 UUID / SNI / pbk / sid / flow / fp 每个参数并解释，标出缺失项 |
+| [订阅链接解析器](https://dementor.cn/tools/sub-parser/) | base64 订阅与 vmess / ss / trojan / vless 链接批量解码成表 |
+| [VPS 选购决策器](https://dementor.cn/tools/vps-picker/) | 按用途 / 预算 / 回国线路 / 落地地区推荐具体套餐 |
+
+全部在浏览器本地运算，不上传任何参数，免注册。
 
 ## 指南（本仓库精简版，完整版在站上）
 
@@ -32,7 +37,12 @@ description: 家宽 IP、Reality、分流与纯净度的实战笔记与可复制
 - [Scamalytics 分数怎么看、多少分能用](https://dementor.cn/scamalytics-score/)
 - [家宽 IP vs 机房 IP 到底差在哪](https://dementor.cn/home-isp-vs-datacenter/)
 - [美国家宽 VPS 怎么选：主流商家横评](https://dementor.cn/home-isp-vps-review/)
+- [3x-ui 面板打不开怎么办（连接被拒 / 502 / 忘记端口和访问路径）](https://dementor.cn/3x-ui-panel-inaccessible/)
+- [证书申请失败：acme.sh 常见报错对照](https://dementor.cn/acme-cert-failed/)
+- [NekoBox 安卓使用教程（导入 / 分流 / TUN / 排查）](https://dementor.cn/nekobox-guide/)
 - [家宽/住宅 IP 商家目录（逐家线路/套餐/价格）](https://dementor.cn/vendors/)
+
+新文章更新在 [dementor.cn](https://dementor.cn/)，也可以用 RSS 订阅：`https://dementor.cn/feed.xml`
 
 ## 仓库内容
 
