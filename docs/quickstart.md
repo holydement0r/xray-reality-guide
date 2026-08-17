@@ -55,7 +55,7 @@ bash scripts/sni-test.sh
 ## 常见卡点
 
 - **连不上 / `context deadline exceeded`**：多半是 SNI 选错或 dest 不可达 →
-  <https://dementor.cn/reality-handshake-failed/>
+  <https://dementor.cn/troubleshooting/reality-handshake-failed/>
 - **测速 -1**：同上，握手没完成
 - **IP 被平台标记**：换 IP，或先用 [IP 检测工具](https://dementor.cn/tools/ip-check/) 看信誉，
   权威分以 Scamalytics / IPQualityScore / Spur 为准

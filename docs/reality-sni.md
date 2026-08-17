@@ -37,4 +37,4 @@ bash scripts/sni-test.sh
 
 结论：`dest` 默认用 `www.icloud.com:443`。但**别照抄** —— 不同机房到各域名的延迟不一样，一定在自己机器上跑一遍 `sni-test.sh` 再定。
 
-完整原理和排查（握手失败、`context deadline exceeded`、测速 -1）见 <https://dementor.cn/reality-handshake-failed/>。
+完整原理和排查（握手失败、`context deadline exceeded`、测速 -1）见 <https://dementor.cn/troubleshooting/reality-handshake-failed/>。
